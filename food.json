@@ -1,49 +1,54 @@
 {
-    "foods": [
-        {
-            "id": 1,
-            "name": "Tôm nướng muối ớt",
-            "image": "images/food1.jpg"
-        },
-        {
-            "id": 2,
-            "name": "Hamburger",
-            "image": "images/food2.jpg"
-        },
-        {
-            "id": 3,
-            "name": "Combo Hamburger",
-            "image": "images/food3.jpg"
-        },
-        {
-            "id": 4,
-            "name": "Bún xào nước mắm",
-            "image": "images/food4.jpg"
-        },
-        {
-            "id": 5,
-            "name": "Mì ý",
-            "image": "images/food5.jpg"
-        },
-        {
-            "id": 6,
-            "name": "Hamburger Khoai Tây",
-            "image": "images/food6.jpg"
-        },
-        {
-            "id": 7,
-            "name": "Bún xào đặc biệt",
-            "image": "images/food7.jpg"
-        },
-        {
-            "id": 8,
-            "name": "Sandwich",
-            "image": "images/food8.jpg"
-        },
-        {
-            "id": 9,
-            "name": "Mì ý đặc biệt",
-            "image": "images/food9.jpg"
-        }
-    ]
+  "foods": [
+    {
+      "id": 1,
+      "name": "Tôm nướng muối ớt",
+      "image": "images/food1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Hamburger",
+      "image": "images/food2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Combo Hamburger",
+      "image": "images/food3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Bún xào nước mắm",
+      "image": "images/food4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Mì ý",
+      "image": "images/food5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Hamburger Khoai Tây",
+      "image": "images/food6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Bún xào đặc biệt",
+      "image": "images/food7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Sandwich",
+      "image": "images/food8.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Mì ý đặc biệt",
+      "image": "images/food9.jpg"
+    },
+    {
+      "name": "Cơm chiên muối ớt",
+      "image": "images/food6.jpg",
+      "id": 12
+    }
+  ]
 }
